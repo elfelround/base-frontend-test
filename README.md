@@ -28,3 +28,14 @@ Fork this repository into your GitHub account and provide us a link to the fork 
 1) usability
 2) performance   
 3) clarity of the code and the document
+
+
+
+
+suggerences
+
+1 allow issues on the github project since there are no ways of contacting u
+2 the .jar is too long to be visualized in browser and nobody is going to execute a stranger's .jar, therefore modularize it to chunks to be able to be visualized or specify guidelines to create our own backend, since no changes are needed on the jar id recommend u guys to just upload it on ur servers, the swagger shall be enough to query it
+3 the fact that this github has been here unaltered for so long and the commits are rather irregular are very sketchy, doesnt prompt trust enough to execute any codes
+4 the test is too long
+5 the test can be easily stolen for usage
